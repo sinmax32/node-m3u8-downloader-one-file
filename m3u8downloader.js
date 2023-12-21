@@ -85,7 +85,8 @@ async function m3u8download(m3u8url, save2dir) {
 	var tslist = []
 	for (var i = 0; i < lines.length; i++) {
 		if (lines[i].charAt(0) != '#') {
-			tslist.push(lines[i].trim())
+			if( lines[i].trim().length > 2 )
+				tslist.push(lines[i].trim())
 		}
 	}
 	
