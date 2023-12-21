@@ -5,7 +5,7 @@
 
 #### MIT License
 
-#### [中文](READ_CN.md "中文说明")
+#### [涓枃](README_CN.md "涓枃璇存槑")
 
 Run
 > 1. Download m3u8downloader.js 
