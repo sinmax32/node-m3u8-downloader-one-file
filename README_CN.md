@@ -1,6 +1,6 @@
 ﻿# node-m3u8-downloader-one-file
-#### 使用nodejs下载m3u8以及ts文件。整套只有一个文件。
-#### 代码清晰易读，尽管没注释。
+#### 使用nodejs下载m3u8以及ts文件。整套只需一个文件。
+#### 尽管没注释但代码仍然清晰易读。
 #### 命令行 : node  m3u8downloader  https://xxx.com/20231216/xxx/2000kb/hls/index.m3u8  targetdir.
 
 #### MIT License
